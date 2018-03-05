@@ -1,2 +1,3 @@
 # Meme-Engine
-First GUi i ever made using PyQt4
+First GUI i ever made using PyQt4
+Attached some avi files to play videos
